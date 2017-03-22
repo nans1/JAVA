@@ -1,0 +1,30 @@
+Glossaire JAVA:: 
+---------------------------------------------------------------------//
+
+
+Java orienté objet : 
+********************
+
+
+
+Classe -->  regroupe les attributs et les methodes d'un objet.
+
+
+Objet --->  instance d'une classe.
+
+
+Attributs ---> les caracteristiques d'un objet (couleurs).
+
+
+Methodes ----> les fonctions d'un objet ce qu'il sera capable de fair.
+
+
+
+Héritage ---> une classe qui prend les attributs et methodes d'une autre classe.
+
+
+Polymorphisme ---> permet d'instauré des methodes qui peuvent etre utilisé de plusieurs facon (implementation differente en fonction des objets). 
+
+
+
+Classe Abstraite --->  c'est une classe qui ne permet pas d'instancié un objet car trop globale (destiné à l'heritage). 
